@@ -10,12 +10,10 @@ package tictactoe;
  * @author Doston Hamrakulov, doston.hamrakulov@gmail.com
  */
 public class TicTacToe {
-
-    /**
-     * @param args the command line arguments
-     */
+    
+    //Fully tested and works well
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         GameWindow gamewindows = new GameWindow();
     }
     
