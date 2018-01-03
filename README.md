@@ -18,3 +18,18 @@ First player starts movement and then computer player, and so on, until it reach
 ## Author
 **Doston Hamrakulov**
 >*Riga Technical University, Riga, Latvia*
+
+
+
+### Screens:
+
+<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_1.PNG" /></p>
+
+
+<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_2.PNG" /></p>
+
+
+<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_3.PNG" /></p>
+
+
+<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_4.PNG" /></p>
