@@ -180,7 +180,7 @@ public class GameWindow implements ActionListener,Runnable{
                 return true;
         }
         return false;
-    }
+    } //end hasOWon
     int minimax(int depth,int turn)
     {
         if(hasXWon())
@@ -222,7 +222,7 @@ public class GameWindow implements ActionListener,Runnable{
             return getMin(scores);
         
         return 0;
-    }
+    } //endMinimax method
     int getMax(List<Integer> scores)
     {
         int max=Integer.MIN_VALUE; // As scores can be negative
@@ -232,7 +232,7 @@ public class GameWindow implements ActionListener,Runnable{
                 max=scores.get(i);
         }
         return max;
-    }
+    }//end getMax()
     int getMin(List<Integer> scores)
     {
         int min=Integer.MAX_VALUE; // As scores can be negative
@@ -242,7 +242,7 @@ public class GameWindow implements ActionListener,Runnable{
                 min=scores.get(i);
         }
         return min;
-    }
+    }//end getMin
     
     List<Move> plausibleMoveGenerator()
     {
@@ -258,7 +258,7 @@ public class GameWindow implements ActionListener,Runnable{
             }
         }
         return plausibleMoves;
-    }
+    }//end plausibleMoveGenerator()
 
     void AlgorithmMove()
     {
