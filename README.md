@@ -23,13 +23,14 @@ First player starts movement and then computer player, and so on, until it reach
 
 ### Screens:
 
-<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_1.PNG" /></p>
+<p align="center">
+	<img width="250px" height="450px" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_1.PNG"/>
+	<img width="250px" height="450px" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_2.PNG" />
+	<img width="250px" height="450px" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_3.PNG" />
+</p>
 
+<p align="center">
+	
+	<img width="250px" height="450px" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_4.PNG" />
+</p>
 
-<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_2.PNG" /></p>
-
-
-<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_3.PNG" /></p>
-
-
-<p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Tic-tac-toe-Using-Minimax-Algorithm/blob/master/TicTacToe/Images/image_4.PNG" /></p>
