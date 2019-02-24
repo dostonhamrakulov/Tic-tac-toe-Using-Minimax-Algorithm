@@ -17,7 +17,7 @@ First player starts movement and then computer player, and so on, until it reach
 
 ## Author
 **Doston Hamrakulov**
->*Riga Technical University, Riga, Latvia*
+>*Software Developer*
 
 
 
